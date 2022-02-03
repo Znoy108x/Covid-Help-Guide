@@ -23,6 +23,7 @@ Still in Development Phase. But i'll make it a multi page application and add da
       pip install streamlit
       pip install streamlit-lottie
       pip install fake-useragent
+      #after that run streamlit run mainCode.py
 ```
 
 ## How To Run ...🏃...
