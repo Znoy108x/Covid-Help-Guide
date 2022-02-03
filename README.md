@@ -14,20 +14,16 @@ Still in Development Phase. But i'll make it a multi page application and add da
 - <a href="https://docs.streamlit.io/">StreamLit</a> 
 
 ## Code For Installing Packages 📦
-**DateTime**
-<pre>pip install DateTime</pre>
-**Numpy**
-<pre>pip install numpy</pre>
-**Requests**
-<pre>pip install requests</pre>
-**Pandas**
-<pre>pip install pandas</pre>
-**streamlit**
-<pre>pip install streamlit</pre>
-**streamlit-lottie**
-<pre>pip install streamlit-lottie</pre>
-**Fake-User-Agent**
-<pre>pip install fake-useragent</pre>
+```python
+      #Install Me
+      pip install DateTime
+      pip install numpy
+      pip install requests
+      pip install pandas
+      pip install streamlit
+      pip install streamlit-lottie
+      pip install fake-useragent
+```
 
 ## How To Run ...🏃...
 - Download and Unzip The File
