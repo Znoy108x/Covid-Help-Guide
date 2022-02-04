@@ -319,7 +319,7 @@ else:
     infected with the virus will experience mild to 
     moderate respiratory illnessand recover without
     requiring special treatment.However, some will 
-    become seriously illand require medical attention.
+    become seriously ill and require medical attention.
     ''')
     def load_lottieurl(url:str):   
         r = requests.get(url)
