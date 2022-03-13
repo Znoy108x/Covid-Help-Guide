@@ -43,7 +43,7 @@ def footer(inp_views):
         "Visitors - ", str(inp_views),
         br(),
         "Developed with \u2764\ufe0f by ",
-        link("https://github.com/AbHaY108BiShT", "AbhayBisht & Manish Kumar"),
+        link("https://github.com/AbHaY108BiShT", "AbhayBisht"),
         "     ",
     ]
     layout(*myargs)
