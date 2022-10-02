@@ -326,15 +326,4 @@ else:
         if r.status_code !=200:
             return None
         return r.json()
-    animation_one = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_jYmRtx.json")
-    st_lottie(
-        animation_one,
-        speed=1,
-        reverse = False,
-        loop = True,
-        quality="high",
-        renderer = "svg",
-        height = 200,
-        width=600,
-        key = "a2",
-    )
+   
